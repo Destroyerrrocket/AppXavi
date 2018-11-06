@@ -1,0 +1,7 @@
+:Author: Pol Marcet Sardà
+:Email: polmarcetsarda@gmail.com
+:Date: 06/11/2018
+:Revision: 0.0.1
+:License: GPL
+
+= Project: XaviApp
